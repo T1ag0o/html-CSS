@@ -1,2 +1,2 @@
 # html
- repositorio para estudo das tags fundamentais HTML
+ repositorio para estudo de HTML e CSS
